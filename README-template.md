@@ -25,10 +25,11 @@ Designing card for housing qr code image to become responsive design
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ogibinedi/css-grid-card-element)
-- Live Site URL: [Add live site URL here](https://css-grid-element.netlify.app)
+- Solution URL: [My Solution](https://github.com/ogibinedi/css-grid-card-element)
+- Live Site URL: [My Live Site](https://css-grid-element.netlify.app)
 
 ## My process
+First i am learning the design and then i create html and finally using reference from the internet how to create responsive page using css grid
 
 ### Built with
 
@@ -201,8 +202,8 @@ i have to learn more as specially in the design part, beside using css grid, i w
 
 ## Author
 
-- Website - [Add your name here](https://github.com/ogibinedi/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ogibinedi)
+- Website - [Ogi Bin Edi](https://github.com/ogibinedi/)
+- Frontend Mentor - [@ogibinedi](https://www.frontendmentor.io/profile/ogibinedi)
 
 ## Acknowledgments
 
